@@ -3,8 +3,8 @@
   "name": "claude-code-statusline",
   "description": "A clean, cross-platform status line for Claude Code.",
   "owner": {
-    "name": "iripple",
-    "url": "https://github.com/iripple"
+    "name": "EchoPrime-Studio",
+    "url": "https://github.com/EchoPrime-Studio"
   },
   "plugins": [
     {

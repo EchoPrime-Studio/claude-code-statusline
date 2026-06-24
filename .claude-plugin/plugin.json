@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "A clean, cross-platform status line for Claude Code: account, model, folder, git branch, and active skill badges. Auto-configures on install.",
   "author": {
-    "name": "iripple",
-    "url": "https://github.com/iripple"
+    "name": "EchoPrime-Studio",
+    "url": "https://github.com/EchoPrime-Studio"
   },
   "hooks": "./hooks/hooks.json"
 }
