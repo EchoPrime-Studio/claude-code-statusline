@@ -3,8 +3,8 @@
   "name": "claude-code-statusline",
   "description": "A clean, cross-platform status line for Claude Code.",
   "owner": {
-    "name": "spiegel",
-    "url": "https://gitlab.com/spiegel"
+    "name": "iripple",
+    "url": "https://github.com/iripple"
   },
   "plugins": [
     {

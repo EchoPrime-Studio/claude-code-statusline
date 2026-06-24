@@ -13,7 +13,7 @@ At a glance it shows **who you're logged in as, the model, where you are, your g
 Inside Claude Code, run these two commands:
 
 ```
-/plugin marketplace add https://gitlab.com/spiegel/claude-code-statusline.git
+/plugin marketplace add iripple/claude-code-statusline
 /plugin install claude-code-statusline@claude-code-statusline
 ```
 
